@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "skills": {
+    "capability-evolver": {
+      "version": "1.27.3",
+      "installedAt": 1773084484215
+    },
+    "agent-memory": {
+      "version": "1.0.0",
+      "installedAt": 1773084487709
+    },
+    "multi-viewpoint-debates": {
+      "version": "1.0.0",
+      "installedAt": 1773084542427
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1773084545097
+    },
+    "tavily-search": {
+      "version": "1.0.0",
+      "installedAt": 1773084552043
+    },
+    "self-improvement": {
+      "version": "1.0.0",
+      "installedAt": 1773084556106
+    },
+    "joko-proactive-agent": {
+      "version": "1.0.0",
+      "installedAt": 1773087664942
+    },
+    "proactive-solvr": {
+      "version": "1.6.7",
+      "installedAt": 1773087674226
+    },
+    "feishu-proactive-messenger": {
+      "version": "1.0.1",
+      "installedAt": 1773087680460
+    },
+    "skill-creator": {
+      "version": "0.1.0",
+      "installedAt": 1773087688054
+    },
+    "self-improving-agent": {
+      "version": "3.0.0",
+      "installedAt": 1773087931686
+    },
+    "find-skills": {
+      "version": "0.1.0",
+      "installedAt": 1773088161660
+    },
+    "skill-vetter": {
+      "version": "1.0.0",
+      "installedAt": 1773088562750
+    },
+    "hyperliquid": {
+      "version": "1.0.0",
+      "installedAt": 1773088628439
+    },
+    "causal-inference": {
+      "version": "0.2.0",
+      "installedAt": 1773088687993
+    },
+    "backtest-expert": {
+      "version": "0.1.0",
+      "installedAt": 1773089055071
+    },
+    "trade-validation": {
+      "version": "1.0.0",
+      "installedAt": 1773089407210
+    },
+    "quantitative-research": {
+      "version": "1.0.0",
+      "installedAt": 1773089643293
+    },
+    "adi-decision-engine": {
+      "version": "0.1.0",
+      "installedAt": 1773089662393
+    }
+  }
+}
